@@ -58,14 +58,14 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 Machine Learning Model 1:
 
-Accuracy: 99%
-Precision: 93%
-Recall: 95%
+- Accuracy: 99%
+- Precision: 93%
+- Recall: 95%
 Machine Learning Model 2:
 
-Accuracy: 99%
-Precision: 93%
-Recall: 99%
+- Accuracy: 99%
+- Precision: 93%
+- Recall: 99%
 Summary
 
 Both models perform well, and predict both '0's and '1's with 99% accuracy. 
